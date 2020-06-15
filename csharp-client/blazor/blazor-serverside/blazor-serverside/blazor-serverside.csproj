@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>blazor_serverside</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Senstate.CSharp-Client" Version="0.1.0" />
+    <PackageReference Include="Senstate.NetStandard" Version="0.1.0" />
+  </ItemGroup>
+
+</Project>
