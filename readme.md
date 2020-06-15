@@ -9,7 +9,7 @@ Folder-Structure:
 
 
 ## C#
-- [Blazor / ServerSide][blazorServerSide] & WASM
+- [Blazor / ServerSide][blazorServerSide] & [Blazor / WASM][blazorWasmSide]
 - TODO: Unity
 - TODO: MonoGame
 - TODO?: older versions? (under .NetStandard 2)
@@ -28,4 +28,5 @@ Folder-Structure:
 - TODO: WASM 
 
 
-[blazorServerSide]: csharp-client/blazor/blazor-serverside
+[blazorServerSide]: csharp-client/blazor/blazor-serverside/blazor-serverside
+[blazorWasmSide]: csharp-client/blazor/blazor-serverside/blazor-wasm
